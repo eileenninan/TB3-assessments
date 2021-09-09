@@ -1,0 +1,17 @@
+.navbar{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+} 
+.nav-sorty li{
+    float: inline-end;
+}
+button{
+    float: inline-start;
+}
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
